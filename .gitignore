@@ -3,5 +3,8 @@ __pycache__/
 *.swp
 *.pyc
 datasets-recolor/shapes/
+datasets-recolor/colors/
 
 dataset/color_shapes_old/
+
+.idea/
