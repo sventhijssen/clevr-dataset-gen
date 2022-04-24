@@ -2,4 +2,6 @@
 __pycache__/
 *.swp
 *.pyc
-output/
+datasets-recolor/shapes/
+
+dataset/color_shapes_old/
